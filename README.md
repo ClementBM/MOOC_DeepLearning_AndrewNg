@@ -1,2 +1,2 @@
-# MOOC_DeepLearning_AndrewNg
-Deep Learning Course On Coursera By Andrew Ng
+# DeepLearning on coursera
+Keep track of Deep Learning MOOC by Andrew Ng
